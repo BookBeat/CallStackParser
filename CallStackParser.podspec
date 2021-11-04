@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name                      = "CallStackParser"
-  s.version                   = "1.0.1"
+  s.version                   = "1.1.0"
   s.summary                   = "A swift library to parse call stack symbol supporting iOS, tvOS, watchOS, and macOS."
   s.homepage                  = "https://github.com/gumob/CallStackParser"
   s.license                   = { :type => "MIT", :file => "LICENSE" }
